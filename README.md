@@ -14,7 +14,7 @@ Run:
 
 and then rename .env.local.example to .env.local and configure with your own data (GraphQL URL and site domain).
 
-In your WordPress instalation create a plugin with this code: https://gist.github.com/matezito/3f357454a3daf7a03dd8ceed58a0ffeb (remeber, your WP installation must have a WPGraphQL plugin https://wordpress.org/plugins/wp-graphql/. Also the installation must have a logo and favicon image added)
+In your WordPress instalation create a plugin with this code: https://gist.github.com/matezito/3f357454a3daf7a03dd8ceed58a0ffeb (remember, your WP installation must have installed the WPGraphQL plugin https://wordpress.org/plugins/wp-graphql/. Also the installation must have a logo and favicon image added)
 
 Good! Now run:
 
